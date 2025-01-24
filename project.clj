@@ -22,8 +22,8 @@
                   [org.jetbrains/annotations "24.1.0"]]))
 
 (defproject com.raylib/raylib-j "0.5.2"
-  :description "FIXME: write description"
-  :url "http://example.com/FIXME"
+  :description "Port of Raylib to java using LWJGL."
+  :url "https://github.com/CreedVI/Raylib-J"
   :license {:name "Zlib License"
             :url "https://github.com/CreedVI/Raylib-J/blob/main/LICENSE"}
   :dependencies ~deps
